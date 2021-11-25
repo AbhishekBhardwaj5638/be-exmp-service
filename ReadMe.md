@@ -13,4 +13,4 @@ The job can be run with:
 		java -jar target/be-nmcat-services-0.0.1-SNAPSHOT.jar
 ```
 
-Want to test the pull request version
+Want to test the pull request with merge functionality
